@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Joseph and a WordPress Theme, Plugin and Elementor Widgets Add-on Developer
+I am Joseph and a WordPress Theme and Elementor Widgets Add-on Developer
